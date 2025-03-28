@@ -1,0 +1,31 @@
+url,title,meta_description,meta_keywords,status
+https://n,,,,"error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+0   chromedriver                        0x0000000102d9f6c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x0000000102d97c9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x00000001028e9e30 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001028e23c4 cxxbridge1$string$len + 61588
+4   chromedriver                        0x00000001028d45ac cxxbridge1$string$len + 4732
+5   chromedriver                        0x00000001028d5f8c cxxbridge1$string$len + 11356
+6   chromedriver                        0x00000001028d4a14 cxxbridge1$string$len + 5860
+7   chromedriver                        0x00000001028d4388 cxxbridge1$string$len + 4184
+8   chromedriver                        0x00000001028d40d4 cxxbridge1$string$len + 3492
+9   chromedriver                        0x00000001028d1dec chromedriver + 187884
+10  chromedriver                        0x00000001028d2910 chromedriver + 190736
+11  chromedriver                        0x00000001028ecde0 cxxbridge1$string$len + 105136
+12  chromedriver                        0x0000000102973118 cxxbridge1$string$len + 654824
+13  chromedriver                        0x00000001029725f8 cxxbridge1$string$len + 651976
+14  chromedriver                        0x00000001029252fc cxxbridge1$string$len + 335820
+15  chromedriver                        0x0000000102d646c4 cxxbridge1$str$ptr + 2549544
+16  chromedriver                        0x0000000102d67988 cxxbridge1$str$ptr + 2562540
+17  chromedriver                        0x0000000102d4471c cxxbridge1$str$ptr + 2418560
+18  chromedriver                        0x0000000102d681e8 cxxbridge1$str$ptr + 2564684
+19  chromedriver                        0x0000000102d35750 cxxbridge1$str$ptr + 2357172
+20  chromedriver                        0x0000000102d87f58 cxxbridge1$str$ptr + 2695100
+21  chromedriver                        0x0000000102d880e0 cxxbridge1$str$ptr + 2695492
+22  chromedriver                        0x0000000102d97910 cxxbridge1$str$ptr + 2759028
+23  libsystem_pthread.dylib             0x00000001811b42e4 _pthread_start + 136
+24  libsystem_pthread.dylib             0x00000001811af0fc thread_start + 8
+"
+https://www.justlife.com/en-AE,"Justlife Home Services - Cleaning, Beauty, PCR, & More","Book easy, reliable, and affordable services in UAE for home cleaning, salon at home, grooming at home, PCR at home, car cleaning, repairs and more.","maids in uae,maid services in uae,cleaning services in uae,cleaning companies in uae",success
